@@ -9,7 +9,6 @@ Plugin 'tomlion/vim-solidity'
 Plugin 'dmdque/solidity.vim'
 Plugin 'cohama/lexima.vim'
 Plugin 'mattn/emmet-vim'
-" Plugin 'Yggdroot/indentLine'
 
 call vundle#end()
 filetype plugin indent on
